@@ -75,4 +75,4 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/j/overlay/dictionaries
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.ringtone=Over-the-Horizon.mp3
 
-include vendor/lineage/config/version.mk
+include vendor/j/config/version.mk
