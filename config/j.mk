@@ -45,10 +45,6 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Metro \
     SystemUIClocks-NumOverlap
 
-# Sensitive Phone Numbers list
-PRODUCT_PACKAGES += \
-    sensitive_pn.xml
-
 # World APN list
 PRODUCT_PACKAGES += \
     apns-conf.xml
