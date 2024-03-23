@@ -5,6 +5,9 @@ PRODUCT_PACKAGES += \
     jOS-System \
     jOS-EasterEgg \
     Backgrounds \
+    F-Droid \
+    ThemeEngine \
+    ThemeEngine-Icons \
     DocumentsUIOverlay \
     IconPackCircularAndroidOverlay \
     IconPackCircularLauncherOverlay \
