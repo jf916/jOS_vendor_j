@@ -48,10 +48,6 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Metro \
     SystemUIClocks-NumOverlap
 
-# World APN list
-PRODUCT_PACKAGES += \
-    apns-conf.xml
-
 # Disable vendor restrictions
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
