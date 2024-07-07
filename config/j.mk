@@ -52,6 +52,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
 # Include AOSP audio files
+$(call inherit-product-if-exists, frameworks/base/data/sounds/AudioPackage14.mk)
 include vendor/j/config/aosp_audio.mk
 
 # Include j audio files
