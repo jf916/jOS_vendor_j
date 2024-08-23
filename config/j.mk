@@ -4,6 +4,7 @@
 PRODUCT_PACKAGES += \
     jOS-System \
     jOS-EasterEgg \
+    jOSSystemUI \
     Backgrounds \
     F-Droid \
     ThemeEngine \
