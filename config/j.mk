@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
     Backgrounds \
     F-Droid \
     ThemeEngine \
-    ThemeEngine-Icons \
     DocumentsUIOverlay \
     IconPackCircularAndroidOverlay \
     IconPackCircularLauncherOverlay \
