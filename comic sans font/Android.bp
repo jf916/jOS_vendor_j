@@ -1,0 +1,23 @@
+prebuilt_font {
+    name: "comicsans-Regular.ttf",
+    src: "comicsansregular.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "comicsans-Italic.ttf",
+    src: "comicsansitalic.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "comicsans-Bold.ttf",
+    src: "comicsansbold.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "comicsans-BoldItalic.ttf",
+    src: "comicsansbolditalic.ttf",
+    product_specific: true,
+}
