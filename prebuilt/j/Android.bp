@@ -15,14 +15,16 @@
 //
 
 android_app_import {
-    name: "F-Droid",
+    name: "Smartspacer",
 
     product_specific: true,
-    apk: "F-Droid.apk",
+    apk: "Smartspacer.apk",
     presigned: true,
     optional_uses_libs: [
+        "android.ext.adservices",
         "androidx.window.extensions",
         "androidx.window.sidecar",
+        "org.apache.http.legacy",
     ],
     preprocessed: true,
 

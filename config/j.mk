@@ -5,7 +5,7 @@ PRODUCT_PACKAGES += \
     jOS-System \
     jOS-EasterEgg \
     Backgrounds \
-    F-Droid \
+    Smartspacer \
     ThemeEngine \
     DocumentsUIOverlay \
     IconPackCircularAndroidOverlay \
@@ -68,7 +68,7 @@ include vendor/j/config/j_audio.mk
 # Default notification/alarm sounds
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.notification_sound=notif.mp3 \
-    ro.config.alarm_alert=Hassium.ogg
+    ro.config.alarm_alert=Over-the-Horizon.mp3
 
 # Include j LatinIME dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/j/overlay/dictionaries
