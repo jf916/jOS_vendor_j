@@ -5,7 +5,6 @@ PRODUCT_PACKAGES += \
     jOS-System \
     jOS-EasterEgg \
     Backgrounds \
-    Smartspacer \
     ThemeEngine \
     DocumentsUIOverlay \
     IconPackCircularAndroidOverlay \
