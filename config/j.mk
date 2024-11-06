@@ -3,7 +3,6 @@
 # jOS Apps and Customizations
 PRODUCT_PACKAGES += \
     jOS-System \
-    jOS-EasterEgg \
     Backgrounds \
     ThemeEngine
 
