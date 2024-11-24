@@ -21,10 +21,6 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.notification_sound=notif.mp3 \
     ro.config.alarm_alert=Over-the-Horizon.mp3
 
-# Include j LatinIME dictionaries
-PRODUCT_PACKAGE_OVERLAYS += vendor/j/overlay/dictionaries
-PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/j/overlay/dictionaries
-
 # Default ringtone
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.ringtone=Over-the-Horizon.mp3
