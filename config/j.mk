@@ -23,5 +23,3 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # Default ringtone
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.ringtone=Over-the-Horizon.mp3
-
-include vendor/j/config/version.mk
